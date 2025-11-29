@@ -1,0 +1,7 @@
+# re version 3.12
+# json version 3.5
+# vosk version 0.3.45
+# pyaudio version 0.2.14
+# noisereduce version 3.0.3
+# numpy version 2.0.2
+# rapidfuzz version 3.10.0
